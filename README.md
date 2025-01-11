@@ -8,6 +8,6 @@
     <h1>Az első HTML változtatásom</h1>
 </head>
 <body>
-    <h2>Az első HTML5 változtatásom</h2>
+    <h2>A második HTML5 változtatásom</h2>
 </body>
 </html>
