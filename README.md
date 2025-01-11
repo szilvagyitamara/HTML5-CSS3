@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML5 & CSS3</title>
+    <title>Document</title>
     <h1>Az első HTML változtatásom</h1>
 </head>
 <body>
